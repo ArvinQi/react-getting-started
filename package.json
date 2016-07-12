@@ -1,0 +1,16 @@
+{
+  "name": "react-getting-started",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "browser-sync start --server --files '*.*'"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.13.0",
+    "react": "^15.2.1",
+    "react-dom": "^15.2.1"
+  }
+}
